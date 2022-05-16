@@ -10,59 +10,15 @@
 <a href="https://www.linkedin.com/in/adhamahmed/"></a>
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="./images/Docker.png" alt="php" width="40" height="40"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-<img src="./images/JS.png" alt="php" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="./images/Spring.png" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-<img src="./images/node.png" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-<img src="./images/Angular.png" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://ar.reactjs.org/" target="_blank" rel="noreferrer">
-<img src="./images/React.png" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="./images/Mongo.png" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<p>
-
-  
-  
   ## 🛠️ My Skills
 
 ### 🔵 Programming Languages
 
 <p align="center"> 
+  &emsp; 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   &emsp;
@@ -74,6 +30,7 @@
   &emsp;
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+	
 
 ### 🔵 Frontend Development
 
@@ -85,9 +42,8 @@
   &emsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   &emsp; 
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  &emsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="no
+						    referrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   &emsp;
@@ -103,28 +59,30 @@
   &emsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   &emsp;
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+</p>
+&emsp;
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
   &emsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   &emsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  &emsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ 
+<a href="#" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
 </p>
 
 
-### 🔵 Software & Tools
+<!-- ### 🔵 Other Tools
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-</p>
+   &emsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ 
+</p> -->
 
  ## 📊 Github Stats
 
@@ -136,13 +94,13 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adham' Github Stats" src="https://github-readme-stats.vercel.app/api?username=adham-ahmed&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-m45&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adham" style="width:400px;height:192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adham-ahmed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adham" style="width:400px;height:192px"/>
   <br/>
   
   </p>
   
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Adham-Ahmed"><img alt="Adham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adham-ahmed&custom_title=Adham%20Ahmed%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+ -->
