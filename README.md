@@ -33,10 +33,32 @@
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
 </p>
 	
+	   
 ### 🔵 Backend Technologies
  
 <p align="center">
-<!--   &emsp;
+  &emsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  &emsp;
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  &emsp;
+   <a href="#" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"    alt="mysql" width="40" height="40"/>
+  &emsp;
+   <a href="#" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"    alt="mysql" width="40" height="40"/>
+  &emsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  &emsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>	
+</p>
+
+
+<!-- 	   
+### 🔵 Backend Technologies
+ 
+<p align="center">
+  &emsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 	
   &emsp;
@@ -55,9 +77,9 @@
   &emsp;
    <a href="#" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-   </a> -->
+   </a>
 	
-</p>
+</p> -->
 	   
 ### 🔵 Frontend Technologies
 
