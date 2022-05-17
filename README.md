@@ -115,11 +115,11 @@
  
 </p>
 
- ## 📊 Github Stats
+<!--  ## 📊 Github Stats -->
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<!--   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adham' Github Stats" src="https://github-readme-stats.vercel.app/api?username=adham-ahmed&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -127,8 +127,12 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adham-ahmed&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adham" style="width:400px;height:192px"/>
   <br/>
-  
+   -->
   </p>
+	
+	
+	
+	
   
 <!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
